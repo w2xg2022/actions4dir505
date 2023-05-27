@@ -30,11 +30,11 @@
 	```
 
 自带uboot截屏：
-<img src="pic_uboot.jpg" width=720  />
+<img src="pic/pic_uboot.jpg" width=720  />
 
 
 刷机后主页面：
-<img src="pic_mainpage.jpg" width=720  />
+<img src="pic/pic_mainpage.jpg" width=720  />
 
 
 
@@ -73,7 +73,7 @@
 
 
 打印机设置：
-<img src="pic_printer.gif" width=720  />
+<img src="pic/pic_printer.gif" width=720  />
 
 
 
